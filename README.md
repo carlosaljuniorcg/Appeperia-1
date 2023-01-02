@@ -1,2 +1,2 @@
 # Appeperia-1
-Aprendizado para site com maior acessibilidade
+Criando maior acessibilidade para pessoas com PDC e PNE.
